@@ -3,7 +3,7 @@ Large scale linear learners
 
 Code for scoring predictions from VW, Liblinear and StreamSVM on _webspam_.
 
-	score.py - compute accuracy, AUC and confusion matrix form VW and Liblinear predictions
+	score.py - compute accuracy, AUC and confusion matrix for VW and Liblinear predictions
 	score_streamsvm.py - the same thing for StreamSVM
 	
 See:
