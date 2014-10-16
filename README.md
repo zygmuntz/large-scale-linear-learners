@@ -9,5 +9,5 @@ Code for scoring predictions from VW, Liblinear and StreamSVM on _webspam_.
 See:
 * [http://fastml.com/comparing-large-scale-linear-learners/](http://fastml.com/comparing-large-scale-linear-learners/) 
 * [https://www.indiegogo.com/projects/large-scale-linear-learners-compared](https://www.indiegogo.com/projects/large-scale-linear-learners-compared)
-* upcoming article at FastML
+* [http://fastml.com/vowpal-wabbit-liblinear-sbm-and-streamsvm-compared/](http://fastml.com/vowpal-wabbit-liblinear-sbm-and-streamsvm-compared/)
 
